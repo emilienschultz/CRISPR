@@ -1,6 +1,6 @@
 # Module 1 : l'article scientifique
 
-L’objectif de ce module est de mieux comprendre ce qu’est un article scientifique et d’analyser sa structure  en utilisant le cas d’un article publié sur CRISPR. Elle permet de préparer l’analyse plus poussée que nous réaliserons la semaine prochaine.
+L’objectif de ce module est d'analyser un article scientifique publié sur CRISPR pour mieux comprendre comment il est possible de passer par les publications pour éclairer une controverse. Elle permet de préparer l’analyse plus poussée que nous réaliserons la semaine prochaine.
 
 L’article qui nous servira de repère de travail est le suivant : 
 
@@ -17,11 +17,7 @@ Tout d’abord, l’idée principale est de comprendre ce qu’est un article sc
 
 2/ Identifiez les différents éléments de l'article CRIPSR Heroes : quel est l'abstract ? L'auteur ? Son affiliation instituionnelle ? La bibliographie ? La revue dans laquelle cet article est publié ? Le type d'article ?
 
-La science est souvent associée à la connaissance factuelle et objective. Pourtant, les chercheurs sont pris dans des relations sociales, cherchent à diffuser leurs idées contre à des conceptions concurrentes, et un article scientifique est **aussi** le produit aussi de ce processus. Pour vous rendre compte de cela, je vous propose une petite lecture : 
-
-> *Latour, B., & Fabri, P. (1977). La rhétorique de la science [pouvoir er devoir dans un article de science exactes]. Actes de La Recherche En Sciences Sociales, 13, 81–95.*
-
-3/ A partir de la perspective tracée par Latour et Fabri, relisez l’article de Lander pour identifier les moments où la « factualité » est fixée. Et faites une petite recherche sur cet article pour savoir si cette « factualité » a été acceptée par tout le monde. 
+3/ Faites une petite recherche sur cet article pour savoir si l'histoire racontée dans l'article a été acceptée par tout le monde. 
 
 
 ## Comprendre ce qu’est l’accumulation de connaissances scientifiques à travers les articles
@@ -40,7 +36,11 @@ Il existe des plateformes qui collectent l’information des articles scientifiq
 
 5/ Essayez de vous connecter à Scopus à travers votre accès (à vous de trouver comment faire : vos documentalistes sont là pour vous aider :-). Et faites une recherche sur les articles qui citent l’article CRISPR Heroes. A défaut, utilisez Google Scholar libre d'accès. Comment ça permet de réfléchir à la réception de l’article ? Comment pourrait-on faire pour analyser la trajectoire de cet article particulier dans l'espace des publications scientifiques ?
 
-## Compléments 
+## Compléments facultatifs
+
+La science est souvent associée à la connaissance factuelle et objective. Pourtant, les chercheurs sont pris dans des relations sociales, cherchent à diffuser leurs idées contre à des conceptions concurrentes, et un article scientifique est **aussi** le produit aussi de ce processus. Pour vous rendre compte de cela, je vous propose une petite lecture : 
+
+> *Latour, B., & Fabri, P. (1977). La rhétorique de la science [pouvoir er devoir dans un article de science exactes]. Actes de La Recherche En Sciences Sociales, 13, 81–95.*
 
 Une lecture supplémentaire sur ce qu’est un auteur dans un article scientifique :  *Pontille, D. (2001). L’auteur scientifique en question: pratiques en psychologie et en sciences biomédicales. Social Science Information.*
 
