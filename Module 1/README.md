@@ -36,7 +36,9 @@ Les articles  sont connectés les un aux autres par des références : les citat
 
 > *Milard, B. (2013). Réseaux et entourages citationnels en chimie : quatre types d’implications dans la recherche. L’Année sociologique (Vol. 63). http://doi.org/10.3917/anso.132.0528*
 
-5/ Il existe des plateformes qui collectent l’information des articles scientifiques publiés. Les trois principales sont le Web of Science, Scopus et Google Scholar. Essayez de vous connecter à Scopus à travers votre accès (à vous de trouver comment faireà. Et faites une recherche sur les articles qui citent l’article CRISPR Heroes. A défaut, utilisez Google Scholar libre d'accès. Comment ça permet de réfléchir à la réception de l’article ? Comment pourrait-on faire pour analyser la trajectoire de cet article particulier dans l'espace des publications scientifiques ?
+Il existe des plateformes qui collectent l’information des articles scientifiques publiés. Les trois principales sont le **Web of Science**, **Scopus** et **Google Scholar** (d'autres existent, plus spécialisées, comme **Pubmed**). Ce sont des collections non pas des articles eux-mêmes mais des méta-données de ces articles : des indexations de citations d'articles https://en.wikipedia.org/wiki/Citation_index.
+
+5/ Essayez de vous connecter à Scopus à travers votre accès (à vous de trouver comment faire : vos documentalistes sont là pour vous aider :-). Et faites une recherche sur les articles qui citent l’article CRISPR Heroes. A défaut, utilisez Google Scholar libre d'accès. Comment ça permet de réfléchir à la réception de l’article ? Comment pourrait-on faire pour analyser la trajectoire de cet article particulier dans l'espace des publications scientifiques ?
 
 ## Compléments 
 
