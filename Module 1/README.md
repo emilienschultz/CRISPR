@@ -1,71 +1,49 @@
-# Module 2 : le traitement scientométrique
+# Module 1 : l'article scientifique
 
-L’objectif de ce module est d'aborder l'analyse scientométrique pour les publications CRISPR.
+L’objectif de ce module est d'analyser un article scientifique publié sur CRISPR pour mieux comprendre comment il est possible de passer par les publications pour éclairer une controverse. Elle permet de préparer l’analyse plus poussée que nous réaliserons la semaine prochaine.
 
-## Comprendre ce qu'est l'analyse scientométrique
+L’article qui nous servira de repère de travail est le suivant : 
 
-En un mot, est appelé scientométrie toute analyse qui s'appuie sur des statistiques portant sur les méta-données de publication (nom de la revue, nom des auteurs, mot-clés, citation des articles) pour caractériser la connaissance sur un domaine, soit dans sa dimension congitive (les thématiques, la relation entre les articles), soit dans sa dimension sociale (qui travaille avec qui, etc.). Par statistiques, il faut entendre tout traitement de données : cela peut-être des comptages (nombre d'articles par années), des modèles compliqués (effet du genre sur le taux de publication) ou de l'analyse de réseaux (qui est connecté à qui).
+> *Lander, E. S. (2015). The Heroes of CRISPR. Cell, 164(1-2), 18–28. http://doi.org/10.1016/j.cell.2015.12.041*
 
-Pour aller plus loin, si cela vous intéresse, vous trouverez plus d'information dans l'article de l'Encyclopédie :
+## Comprendre ce qu’est un article scientifique
 
-> Leydesdorff, L., & Milojević, S. (2015). Scientometrics. International Encyclopedia of the Social & Behavioral Sciences (Second Edition), 322–327.
+Tout d’abord, l’idée principale est de comprendre ce qu’est un article scientifique. Je vous propose pour cela de rapidement parcourir ces deux pages Wikipédia. 
 
-Ce faisant, la scientométrie (certains utilisent le terme de bibiométrie) s'appuie sur trois étapes différentes : lier une question de recherche avec les possibilités offertes par l'étude d'un corpus de données de publications scientifiques, construire ce corpus, l'analyser.
+- https://en.wikipedia.org/wiki/Scientific_journal
+- https://en.wikipedia.org/wiki/IMRAD 
 
-De nombreuses utilisations existent, que ce soit pour évaluer l'impact des politiques publiques dans un domaine ou pour cartographier l'ensemble des connaissances : http://www.mapofscience.com/. Pour avoir quelques idées de ce qu'il est possible de faire, vous pouvez jeter un coup d'oeil, mais sans vous étendre, à ces quelques articles :
+1/ Faites une petite recherche sur internet autour des consignes sur « comment écrire un article scientifique » pour identifier les éléments-clés qui définissent la spécificité d’un article scientifique (par exemple, en le comparant à un article de presse). Soulignez à quel point il y a des règles qui s’appliquent sur l’écriture.
 
-La caractérisation d'un domaine de recherche :
+2/ Identifiez les différents éléments de l'article CRIPSR Heroes : quel est l'abstract ? L'auteur ? Son affiliation instituionnelle ? La bibliographie ? La revue dans laquelle cet article est publié ? Le type d'article ?
 
-> Raimbault, B., Cointet, J., & Joly, P.-B. (2013). Caractérisation du processus d’émergence de la biologie synthétique à partir d'une approche scientométrique. Medecine Sciences : M/S, 29 Spec No, 45–47. http://doi.org/10.1051/medsci/201329s213
-
-Le profil de publication d'un chercheur :
-
-> Gonzalez-Alcaide, G. (2014). Scientometric portrait of biochemist Santiago Grisolia: publication productivity, collaboration patterns, and citation analysis. Research Evaluation, 23(2), 150–165. http://doi.org/10.1093/reseval/rvu003
-
-L'évolution dans le temps de thématiques d'un domaine
-
-> Chavalarias, D., & Cointet, J. P. (2013). Phylomemetic Patterns in Science Evolution-The Rise and Fall of Scientific Fields. PLoS ONE, 8(2). http://doi.org/10.1371/journal.pone.0054847
+3/ Faites une petite recherche sur cet article pour savoir si l'histoire racontée dans l'article a été acceptée par tout le monde. 
 
 
+## Comprendre ce qu’est l’accumulation de connaissances scientifiques à travers les articles
 
-## Application à partir de SCOPUS
+La connaissance scientifique se construit donc par accumulation d’articles sur un sujet. Ces articles sont publiés dans des journaux plus ou moins connus et lus. 
 
-Par la suite nous allons utiliser SCOPUS pour faire une première analyse de corpus. Nous allons pour le moment mettre un peu les mains dans les données sans pour autant poser des questions spécifiques : c'est la phase *exploratoire*.
+Jetez un coup d’œil sur la page suivante : https://fr.wikipedia.org/wiki/Classification_des_revues_scientifiques
 
-1/ Identifiez l'article sur CRISPR le plus cité référencé dans SCOPUS sur CRISPR. Vérifiez si c'est aussi le cas dans Google Scholar. Utilisez ensuite dans SCOPUS l'onglet "Analyze search results" pour caractériser la dynamique des citations de cet article. En particulier : est-ce que l'article a été cité tout de suite ? Dans quels journaux principalement cet article est cité ? Quel est le principal domaine ? Quels sont les principaux pays des auteurs ? 
+4/ Dans quelle mesure peut-on dire que toutes les revues se valent ? Quel est l’indicateur le plus utilisé pour différencier la « valeur » d’une revue ? Que vaut la revue dans laquelle l’article CRISPR Heroes a été publiée ?
 
-En faisant ça, vous commencez à produire des données statistiques décrivant un corpus particulier (ici, l'ensemble des publications référencées qui ont cité un article). On aurait envie d'aller un peu plus loin maintenant, non ?
+Les articles  sont connectés les un aux autres par des références : les citations. Je vous propose une deuxième lecture de sociologie pour saisir cette dimension centrale du lien de citation entre les articles et ce qu’il représente de la « réalité sociale » dans laquelle la recherche (et donc la publication) prend place.
 
-## Faire une première visualisation
+> *Milard, B. (2013). Réseaux et entourages citationnels en chimie : quatre types d’implications dans la recherche. L’Année sociologique (Vol. 63). http://doi.org/10.3917/anso.132.0528*
 
-Souvent, dans la première phase d'une enquête, on a envie de voir des choses pour s'orienter et poser des questions plus précises. Il est souvent inutile de se lancer dans des questions précises quand on a pas une vision générale. Pour avoir cette vision générale, il existe des outils qui simplifient le travail. La contrepartie est que ces outils intègrent UNE approche particulière, et limitent ainsi les marges de liberté.
+Il existe des plateformes qui collectent l’information des articles scientifiques publiés. Les trois principales sont le **Web of Science**, **Scopus** et **Google Scholar** (d'autres existent, plus spécialisées, comme **Pubmed**). Ce sont des collections non pas des articles eux-mêmes mais des méta-données de ces articles : des indexations de citations d'articles https://en.wikipedia.org/wiki/Citation_index.
 
-Je propose d'utiliser un de ces outils, développé par un laboratoire néérlandais (le CWTS) : WOSViewer. Il est écrit dans le langage de programmation Java, donc facilement portable sur différents ordinateurs. Il permet de cartographier rapidement des réseaux.
-
-2/ Tout d'abord, ce serait bien que vous regardiez la vidéo de présentation du logiciel : http://www.vosviewer.com/getting-started. Puis d'avoir une idée de ce à quoi ressemble le logiciel : télécharger la version dédiée à la carte des champs scientifiques : http://www.vosviewer.com/features/examples#Scientific fields . Lancez le logiciel. Comment est obtenu cette "carte" ? A votre avis, le domaine que nous étudions se situera où dans cette carte de la science ?
-
-3/ Maintenant que vous avez une idée de ce qu'est le logiciel, nous allons l'appliquer à un petit corpus pour prendre en main les options. Télécharger sur SCOPUS (export) en format CSV (fichier séparé par des virgules) l'ensemble des données des articles citant CRISPR Heroes (25). Ouvrir VOSviewer, créer une nouvelle carte basée sur des données bibliométriques, sélectionner ce fichier CSV (bien cliquer sur l'onglet SCOPUS) et puis choisir un type de réseau. Le mieux est que vous en fassiez plusieurs pour comprendre ce à quoi cela correspond:
-
-- Un réseau de citation (qui cite qui) avec une unité de base qui est le document (l'article)
-- Un réseau de co-occurence sur les mots-clés
-- Une réseau de couplage bibliographique sur les documents
-
-Essayez de comprendre comment chacun de ces réseau est construit (ce qu'il veut dire), et posez moi des questions si vous ne comprennez pas. A partir des réseaux, vous pouvez situer la publication CIRSPR Heroes dans le paysage des publications qui en font mention. Cela permet de poser de nouvelles questions (doit-on prendre en compte d'autres publications ? Quels traitements pourrait-on faire des mêmes données ?) et d'avoir une perspective plus générale sur les articles.
-
-D'autres logiciels existent pour faire de l'analyse de corpus. Par exemple, Sci2Sci Tools, ou des plateformes en ligne comme Cortext. L'idée est cependant souvent la même : simplifier le traitement pour avancer plus vite dans la problématisation
-
-## Passer à un corpus plus général
-
-Analyser une publication c'est bien. Mais on aimerait maintenant s'intéresser à *$TOUTES** les publications sur CRIPSR. Faisons-le. 
-
-4/ Sur Scopus, faites une requête qui permet de sélectionner tous les articles sur CRISPR. Faites quelques statistiques en utilisant directement l'onglet "analyse" de SCOPUS. Quel est l'article le plus cité ? Combien de publications en 2011 et combien en 2016 ? Quel taux de croissance ? Maintenant il faut télécharger ce corpus. Malheureusement, on ne peut télécharger que par tranche de 2000 : trouvez une astuce pour télécharger par bloc (par exemple, en filtrant par année). Puis réunissez tous les fichiers dans un même fichier.
-
-5/ Utiliser VosViewer pour construire des cartes sur ce corpus de données. L'idée est de produire des visualisations qui permettent de poser de nouvelles questions. Ca signifie de tester, de regarder ce que ça donne, de se poser des questions, etc. Pour commencer :
-- construire le réseau des co-citations d'articles pour identifier les articles les plus cités
-- constuire le réseau des thématiques en termes de mots-clés, et en termes d'analyse de texte des résumés d'articles, pour identifier les domaines thématiques sur CRISPR
-
-
-6/ A partir de ces premières visualisations exploratoires, quelles questions vous auriez envie de poser ? Quelles sont les limites rencontrées ? Par exemple, êtes-vous en mesure de poser la question de l'évolution des disciplines qui se sont intéressées à CRIPSR ? Ou d'identifier les technologies alternatives à CRISPR ? Ou d'identifier les articles qui parlent des risques ? Qu'est-ce qu'il faudrait pour faire ça à votre avis ? 
+5/ Essayez de vous connecter à Scopus à travers votre accès (à vous de trouver comment faire : vos documentalistes sont là pour vous aider :-). Et faites une recherche sur les articles qui citent l’article CRISPR Heroes. A défaut, utilisez Google Scholar libre d'accès. Comment ça permet de réfléchir à la réception de l’article ? Comment pourrait-on faire pour analyser la trajectoire de cet article particulier dans l'espace des publications scientifiques ?
 
 ## Compléments facultatifs
 
+La science est souvent associée à la connaissance factuelle et objective. Pourtant, les chercheurs sont pris dans des relations sociales, cherchent à diffuser leurs idées contre à des conceptions concurrentes, et un article scientifique est **aussi** le produit aussi de ce processus. Pour vous rendre compte de cela, je vous propose une petite lecture : 
+
+> *Latour, B., & Fabri, P. (1977). La rhétorique de la science [pouvoir er devoir dans un article de science exactes]. Actes de La Recherche En Sciences Sociales, 13, 81–95.*
+
+Une lecture supplémentaire sur ce qu’est un auteur dans un article scientifique :  *Pontille, D. (2001). L’auteur scientifique en question: pratiques en psychologie et en sciences biomédicales. Social Science Information.*
+
+Un autre article sur la construction des articles scientifiques : *Myers, G. (1985). Texts as Knowledge Claims: The Social Construction of Two Biology Articles. Social Studies of Science*
+
+La vidéo de Datagueule sur le marché des publications scientifiques, https://www.youtube.com/watch?v=WnxqoP-c0ZE
