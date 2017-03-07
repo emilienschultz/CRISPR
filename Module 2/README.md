@@ -56,7 +56,7 @@ D'autres logiciels existent pour faire de l'analyse de corpus. Par exemple, Sci2
 
 ## Passer à un corpus plus général
 
-Analyser une publication c'est bien. Mais on aimerait maintenant à un corpus plus conséquence. Par exemple, s'intéresser à *$TOUTES** les publications sur CRIPSR.
+Analyser une publication c'est bien. Mais on aimerait maintenant à un corpus plus conséquence. Par exemple, s'intéresser à **TOUTES** les publications sur CRIPSR.
 
 Vous l'aurez peut-être remarqué, l'enjeu est de définir le corpus sur lequel porte l'analyse, de même qu'en statistique, définir la population d'étude est crucial. Pour cela, il est possible d'utiliser intelligement les champs de recherche de SCOPUS, en précisant les mots-clés que l'on a identifié, les années, les journaux, etc. Il est possible de faire des requêtes complexes. De manière générale, il ne faut pas hésiter à créer plusieurs corpus suivant les questions d'analyse. Mais pour l'instant, on est dans la phase exploratoire.
 
